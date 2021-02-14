@@ -15,4 +15,4 @@ molecular_weight = C * carbon + H * hydrogen + O * oxygen
 
 # Printing
 
-print(f'The molecular mass of the chemical compound is: {molecular_weight}')
+print(f'The molecular mass of the chemical compound is: {molecular_weight} g/mol')
