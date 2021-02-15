@@ -3,7 +3,7 @@
 # Inputs
 V = float(input('Volume (L): '))
 T = float(input('Temperature (K): '))
-n = float(input('Number of mols: '))
+n = float(input('Number of moles: '))
 
 # Constants
 R = 0.082
